@@ -1,5 +1,5 @@
 # Energy-Generator-DataPipeline
-A data pipeline calculating the total energy output (in MW) of all electricity generators throughout November 2021.
+A data pipeline calculating the total energy output (in MW) of all electricity generators in Australia throughout November 2021.
 
 # General inspiration
 This system aims to create an ETL pipeline to ultimately calculate the total revenue earned by various wind and solar energy generators around Australia within November 2021. This required extracting, cleaning and integrating various datasets from online together as part of an overall calculation.
