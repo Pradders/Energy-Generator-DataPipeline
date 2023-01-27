@@ -1,0 +1,173 @@
+DUID,StationName,FuelSource
+ADPPV1,Adelaide Desalination Plant Solar Farm,Solar
+ADPPV2,Adelaide Desalination Plant Solar Farm,Solar
+ADPPV3,Adelaide Desalination Plant Solar Farm,Solar
+ARWF1,Ararat Wind Farm,Wind
+BAKING1,Baking Board Solar Farm,Solar
+BALDHWF1,Bald Hills Wind Farm,Wind
+BANGOWF1,Bango 1 Wind Farm,Wind
+BANGOWF2,Bango 2 Wind Farm,Wind
+BANN1,Bannerton Solar Farm,Solar
+BARCSF1,Barcaldine Solar Farm,Solar
+BERYLSF1,Beryl Solar Farm,Solar
+BLUFF1,The Bluff Wind Farm,Wind
+BNGSF1,Bungala One Solar Farm,Solar
+BNGSF2,Bungala Two Solar Farm,Solar
+BOCORWF1,Boco Rock Wind Farm,Wind
+BODWF1,Bodangora Wind Farm,Wind
+BOMENSF1,Bomen Solar Farm,Solar
+BOWWPV1,Bolivar WWTP Biomass,Solar
+BROKENH1,Broken Hill Solar Farm,Solar
+BRYB1WF1,Berrybank Wind Farm,Wind
+BULGANA1,Bulgana Green Power Hub Wind Farm,Wind
+CAPTL_WF,Capital Wind Farm,Wind
+CATHROCK,Cathedral Rocks Wind Farm,Wind
+CBWF1,Coonooer Bridge Wind Farm,Wind
+CESF1,Capital East Solar Farm,Solar
+CHALLHWF,Challicum Hills Wind Farm,Wind
+CHILDSF1,Childers Solar Farm,Solar
+CHPSTWF1,Chepstowe Wind Farm,Wind
+CHYTWF1,Cherry Tree Wind Farm,Wind
+CLARESF1,Clare Solar Farm,Solar
+CLEMGPWF,Clements Gap Wind Farm,Wind
+CLERMSF1,Clermont Solar Farm,Solar
+CNUNDAWF,Canunda Wind Farm,Wind
+CODRNGTON,Codrington Wind Farm,Wind
+COHUNSF1,Cohuna Solar Farm,Solar
+COLEASF1,Coleambally Solar Farm,Solar
+COLWF01,Collector Wind Farm,Wind
+COOPGWF1,Coopers Gap Wind Farm,Wind
+CROOKWF2,Crookwell Wind Farm,Wind
+CROWLWF1,Crowlands Wind Farm,Wind
+CRURWF1,Crudine Ridge Wind Farm,Wind
+CRWASF1,Corowa Solar Farm,Solar
+CSPVPS1,Collinsville Solar Farm,Solar
+CTHLWF1,Cattle Hill Wind Farm,Wind
+CULLRGWF,Cullerin Range Wind Farm,Wind
+DARLSF1,Darlington Point Solar Farm,Solar
+DAYDSF1,Daydream Solar Farm,Solar
+DDSF1,Darling Downs Solar Farm,Solar
+DIAPURWF1,Diapur Wind Farm,Wind
+DUNDWF1,Dundonnell Wind Farm,Wind
+DUNDWF2,Dundonnell Wind Farm,Wind
+DUNDWF3,Dundonnell Wind Farm,Wind
+ELAINWF1,Elaine Wind Farm,Wind
+EMERASF1,Emerald Solar Farm,Solar
+FINLYSF1,Finley Solar Farm,Solar
+FNWF1,Ferguson North Wind Farm,Wind
+FSWF1,Ferguson South Wind Farm,Wind
+GANGARR1,Gangarri Solar Farm,Solar
+GANNSF1,Gannawarra Solar Farm,Solar
+GLRWNSF1,Glenrowan West Solar Farm,Solar
+GNNDHSF1,Gunnedah Solar Farm,Solar
+GOONSF1,Goonumbla Solar Farm,Solar
+GRANWF1,Granville Harbour Wind Farm,Wind
+GRIFSF1,Griffith Solar Farm,Solar
+GULLRSF1,Gullen Range Solar Farm,Solar
+GULLRWF1,Gullen Range Wind Farm,Wind
+GULLRWF2,Gullen Range Wind Farm,Wind
+GUNNING1,Gunning Wind Farm,Wind
+HALLWF1,Hallett 1 Wind Farm,Wind
+HALLWF2,Hallett 2 Wind Farm,Wind
+HAMISF1,Hamilton Solar Farm,Solar
+HAUGHT11,Haughton Solar Farm,Solar
+HAYMSF1,Hayman Solar Farm,Solar
+HDWF1,Hornsdale 1 Wind Farm,Wind
+HDWF2,Hornsdale 2 Wind Farm,Wind
+HDWF3,Hornsdale 3 Wind Farm,Wind
+HEPWIND1,Hepburn Community Wind Farm,Wind
+HILLSTN1,Hillston Sun Farm,Solar
+HUGSF1,Hughenden Solar Farm,Solar
+JEMALNG1,Jemalong Solar Farm,Solar
+JUNEESF1,Junee Solar Farm,Solar
+KARSF1,Karadoc Solar Farm,Solar
+KEPSF1,Kennedy Energy Park Solar Farm,Solar
+KEPWF1,Kennedy Energy Park Wind Farm,Wind
+KIAMSF1,Kiamal Solar Farm,Solar
+KIATAWF1,Kiata Wind Farm,Wind
+KSP1,Kidston Solar Farm,Solar
+LGAPWF1,Lincoln Gap Wind Farm,Wind
+LILYSF1,Lilyvale Solar Farm,Solar
+LIMOSF11,Limondale 1 Solar Farm,Solar
+LIMOSF21,Limondale 2 Solar Farm,Solar
+LKBONNY1,Lake Bonney Stage 1 Wind Farm,Wind
+LKBONNY2,Lake Bonney Stage 2 Wind Farm,Wind
+LKBONNY3,Lake Bonney Stage 3 Wind Farm,Wind
+LRSF1,Longreach Solar Farm,Solar
+MACARTH1,Macarthur Wind Farm,Wind
+MANSLR1,Manildra solar Farm,Solar
+MAPS2PV1,Mannum Adelaide Pipeline Pumping Station 2 Solar Farm,Solar
+MAROOWF1,Maroona Wind Farm,Wind
+MARYRSF1,Maryrorough Solar Farm,Solar
+MERCER01,Mt Mercer Wind Farm,Wind
+MEWF1,Mount Emerald Wind Farm,Wind
+MIDDLSF1,Middlemount Solar Farm,Solar
+MLSP1,Mugga Lane Solar Farm,Solar
+MLWF1,Mortons Lane Wind Farm,Wind
+MOLNGSF1,Molong Solar Farm,Solar
+MOORAWF1,Moorabool Wind Farm,Wind
+MOREESF1,Moree Solar Farm,Solar
+MTGELWF1,Mt Gellibrand Wind Farm,Wind
+MTMILLAR,Mt Millar Wind Farm,Wind
+MUSSELR1,Musselroe Wind Farm,Wind
+MUWAWF1,Murra Warra Wind Farm,Wind
+MWPS1PV1,Morgan Whyalla Pipeline Pump 1 Solar Farm,Solar
+MWPS2PV1,Morgan Whyalla Pipeline Pump 2 Solar Farm,Solar
+MWPS3PV1,Morgan Whyalla Pipeline Pump 3 Solar Farm,Solar
+MWPS4PV1,Morgan Whyalla Pipeline Pump 4 Solar Farm,Solar
+NASF1,Narromine Solar Farm,Solar
+NBHWF1,North Brown Hill Wind Farm,Wind
+NEVERSF1,Nevertire Solar Farm,Solar
+NUMURSF1,Numurkah Solar Farm,Solar
+NYNGAN1,Nyngan Solar Farm,Solar
+OAKEY1SF,Oakey 1 Solar Farm,Solar
+OAKEY2SF,Oakey 2 Solar Farm,Solar
+OAKLAND1,Oaklands Hill Wind Farm,Wind
+PARSF1,Parkes Solar Farm,Solar
+PORTWF,Portland Wind Farm,Wind
+ROYALLA1,Royalla Solar Farm,Solar
+RRSF1,Ross River Solar Farm,Solar
+RUGBYR1,Rugby Run Solar Farm,Solar
+SALTCRK1,Salt Creek Wind Farm,Wind
+SAPHWF1,Sapphire Wind Farm,Wind
+SEBSF1,Sebastopol Solar Farm,Solar
+SKSF1,South Keswick Solar Farm,Solar
+SMCSF1,Sun Metals Solar Farm,Solar
+SNOWNTH1,Snowtown Stage 2 North Wind Farm,Wind
+SNOWSTH1,Snowtown Stage 2 South Wind Farm,Wind
+SNOWTWN1,Snowtown Stage 1 Wind Farm,Wind
+SRSF1,Susan River Solar Farm,Solar
+STARHLWF,Starfish Hill Wind Farm,Wind
+STOCKYD1,Stockyard Hill Wind Farm,Wind
+STWF1,Silverton Wind Farm,Wind
+SUNRSF1,Sunraysia Solar Farm,Solar
+SUNTPSF1,Suntop Solar Farm,Solar
+TARALGA1,Taralga Wind Farm,Wind
+TBSF1,Tailem Bend Solar Farm,Solar
+TIMWEST,Timboon West Wind Farm,Wind
+TOORAWF,Toora Wind Farm,Wind
+VALDORA1,Valdora Solar Farm,Solar
+WAGGNSF1,Wagga North Solar Farm,Solar
+WARWSF1,Warwick 1 Solar Farm,Solar
+WARWSF2,Warwick 2 Solar Farm,Solar
+WATERLWF,Waterloo Wind Farm,Wind
+WAUBRAWF,Waubra Wind Farm,Wind
+WDGPH1,Western Downs Green Power Hub,Solar
+WELLSF1,Wellington Solar Farm,Solar
+WEMENSF1,Wemen Solar Farm,Solar
+WGWF1,Willogoleche Wind Farm,Wind
+WHILL1,Windy Hill Wind Farm,Wind
+WHITSF1,Whitsunday Solar Farm,Solar
+WINTSF1,Winton Solar Farm,Solar
+WONWP,Wonthaggi Wind Farm,Wind
+WOODLWN1,Woodlawn Wind Farm,Wind
+WOOLNTH1,Woolnorth Studland Bay Bluff Point Wind Farm,Wind
+WPWF,Wattle Point Wind Farm,Wind
+WRSF1,White Rock Solar Farm,Solar
+WRWF1,White Rock Wind Farm,Wind
+YAMBUKWF,Yambuk Wind Farm,Wind
+YARANSF1,Yarranlea Solar Farm,Solar
+YATSF1,Yatpool Solar Farm,Solar
+YAWWF1,Yawong Wind Farm,Wind
+YENDWF1,Yendon Wind Farm,Wind
+YSWF1,Yaloak South Wind Farm,Wind
